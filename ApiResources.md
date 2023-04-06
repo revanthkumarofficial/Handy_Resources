@@ -7,3 +7,7 @@ https://jsonplaceholder.typicode.com/
 ```
 https://www.omdbapi.com/
 ```
+##### RAPID API
+```
+https://rapidapi.com/
+```
